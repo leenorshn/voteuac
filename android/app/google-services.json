@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682050427036",
+    "firebase_url": "https://voteuac.firebaseio.com",
+    "project_id": "voteuac",
+    "storage_bucket": "voteuac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682050427036:android:d82e1ffd42650a33563559",
+        "android_client_info": {
+          "package_name": "com.val.voteuac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682050427036-gcvtivrfnl40vm3m063deke8fl3932vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7y_qCf5OmORmSWl9FESjaNOaMJA7WN5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682050427036-gcvtivrfnl40vm3m063deke8fl3932vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
