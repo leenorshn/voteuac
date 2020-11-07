@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'candidat.dart';
+import 'models/candidat.dart';
 
 class ResultPage extends StatefulWidget {
   @override
